@@ -1,1 +1,1 @@
-Singly linked list manupulations
+Singly linked-list manupulations
